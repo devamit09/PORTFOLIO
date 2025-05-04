@@ -3,7 +3,7 @@
 
 A responsive portfolio website for a Java developer with 4+ years of experience. Built with HTML5, CSS3, and  JavaScript.
 
-  See Live Demo  https://devamit09.github.io/portfolio/
+  See Live Demo https://devamit09.github.io/PORTFOLIO/
 
 ## Features
 
